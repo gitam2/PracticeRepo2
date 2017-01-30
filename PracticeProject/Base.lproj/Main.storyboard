@@ -26,7 +26,7 @@
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <state key="normal" title="Home"/>
                                 <connections>
-                                    <segue destination="yoS-NR-fRr" kind="modal" modalTransitionStyle="crossDissolve" id="pOu-My-g19"/>
+                                    <segue destination="yoS-NR-fRr" kind="modal" modalTransitionStyle="flipHorizontal" id="pOu-My-g19"/>
                                 </connections>
                             </button>
                         </subviews>
